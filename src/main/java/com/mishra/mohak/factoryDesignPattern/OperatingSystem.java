@@ -1,4 +1,4 @@
-package com.mishra.mohak.factory;
+package com.mishra.mohak.factoryDesignPattern;
 
 import lombok.*;
 

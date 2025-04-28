@@ -1,4 +1,4 @@
-package com.mishra.mohak.singleton;
+package com.mishra.mohak.singletonDesignPattern;
 
 public class MultiThreadSingleton {
     private static MultiThreadSingleton instance;

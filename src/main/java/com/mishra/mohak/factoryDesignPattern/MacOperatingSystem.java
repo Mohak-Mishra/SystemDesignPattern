@@ -1,4 +1,4 @@
-package com.mishra.mohak.factory;
+package com.mishra.mohak.factoryDesignPattern;
 
 public class MacOperatingSystem extends OperatingSystem {
     public MacOperatingSystem(String osVersion, String osArchitecture) {

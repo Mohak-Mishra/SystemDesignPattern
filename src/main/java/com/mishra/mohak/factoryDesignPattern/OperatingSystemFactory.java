@@ -1,6 +1,4 @@
-package com.mishra.mohak.factory;
-
-import java.awt.*;
+package com.mishra.mohak.factoryDesignPattern;
 
 public class OperatingSystemFactory {
     private OperatingSystemFactory() {
